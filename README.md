@@ -2,7 +2,7 @@
  
  ## Idea
 
-   [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+    [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
   
   
   
