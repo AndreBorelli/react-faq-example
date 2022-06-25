@@ -6,12 +6,12 @@
   
   
   
-  ## Exercise from John Smilga's course, where several simple React projects are taught.
+ ## Exercise from John Smilga's course, where several simple React projects are taught.
     [https://www.youtube.com/watch?v=a_7Z7C_JCyo]
 
 
 
-## Functionalities:
+ ## Functionalities:
 
     API access;
     
